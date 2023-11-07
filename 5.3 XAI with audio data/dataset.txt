@@ -1,0 +1,3 @@
+The data is large in size.
+Please download from here. After download use train and test.
+https://www.kaggle.com/competitions/tensorflow-speech-recognition-challenge/data
